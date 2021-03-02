@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Ph.D. :cn: student in the Department of Computer Science at the University of Oxford, working on 3D computer vision, please feel free to ask me anything💬! 
+### Hi there 👋,
 <!--
 **QingyongHu/QingyongHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,3 @@ Contact Me:
 ✉ Email: qingyong.hu@cs.ox.ac.uk
 
 ✧ Website: https://qingyonghu.github.io/
-
-✧ Linkedin: https://www.linkedin.com/in/qingyong-hu-b18061171/
-
-✧ Google Scholar: https://scholar.google.com/citations?user=yboFNHEAAAAJ&hl=en
