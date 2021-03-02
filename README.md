@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋, I am a Ph.D. :cn: student in the Department of Computer Science at the University of Oxford, working on 3D computer vision, please feel free to ask me anything💬! 
 <!--
 **QingyongHu/QingyongHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![Qingyong's github stats](https://github-readme-stats.vercel.app/api?username=QingyongHu&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QingyongHu&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact Me:
 
