@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Qingyong's github stats](https://github-readme-stats.vercel.app/api?username=QingyongHu&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QingyongHu&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-✉ Email: qingyong.hu@cs.ox.ac.uk
+✉ Email: huqingyong15@outlook.com
 
 ✧ Website: https://qingyonghu.github.io/
 
